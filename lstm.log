@@ -1,0 +1,237 @@
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.001, 'n_layers': 2}
+Epoch 1, Loss: 0.45223432333226415
+Epoch 1, Eval Loss: 0.4525912940502167, Eval Accuracy: 0.8256
+Epoch 2, Loss: 0.2737162900008973
+Epoch 2, Eval Loss: 0.3200404331088066, Eval Accuracy: 0.8746
+Epoch 3, Loss: 0.14547076287448027
+Epoch 3, Eval Loss: 0.34027015306055547, Eval Accuracy: 0.8674
+Epoch 4, Loss: 0.09040196159273196
+Epoch 4, Eval Loss: 0.3983349248766899, Eval Accuracy: 0.8654
+Epoch 5, Loss: 0.06125586987087491
+Epoch 5, Eval Loss: 0.4922557555139065, Eval Accuracy: 0.8524
+Epoch 6, Loss: 0.05489729142267328
+Epoch 6, Eval Loss: 0.5237857207655907, Eval Accuracy: 0.871
+Epoch 7, Loss: 0.030634018975149863
+Epoch 7, Eval Loss: 0.5569487657397986, Eval Accuracy: 0.8464
+Epoch 8, Loss: 0.01754295959724647
+Epoch 8, Eval Loss: 0.6542304696515202, Eval Accuracy: 0.8622
+Epoch 9, Loss: 0.029949334578345393
+Epoch 9, Eval Loss: 0.5842910565435886, Eval Accuracy: 0.8594
+Epoch 10, Loss: 0.015640622625130402
+Epoch 10, Eval Loss: 0.6527774021029472, Eval Accuracy: 0.8564
+Best Eval Loss: 0.3200404331088066
+Best Epoch: 1
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.001, 'n_layers': 3}
+Epoch 1, Loss: 0.44948341512376333
+Epoch 1, Eval Loss: 0.3962381280958652, Eval Accuracy: 0.8284
+Epoch 2, Loss: 0.24671051513617206
+Epoch 2, Eval Loss: 0.3469857804477215, Eval Accuracy: 0.8588
+Epoch 3, Loss: 0.14219557031229801
+Epoch 3, Eval Loss: 0.4182923838496208, Eval Accuracy: 0.8534
+Epoch 4, Loss: 0.08533728015935345
+Epoch 4, Eval Loss: 0.4582436516880989, Eval Accuracy: 0.8444
+Epoch 5, Loss: 0.06053644849378972
+Epoch 5, Eval Loss: 0.4709832467138767, Eval Accuracy: 0.8562
+Epoch 6, Loss: 0.06423483564886176
+Epoch 6, Eval Loss: 0.49391683638095857, Eval Accuracy: 0.8464
+Epoch 7, Loss: 0.040081686061468856
+Epoch 7, Eval Loss: 0.5667136311531067, Eval Accuracy: 0.8596
+Epoch 8, Loss: 0.02383281367980715
+Epoch 8, Eval Loss: 0.6174065109342337, Eval Accuracy: 0.8562
+Epoch 9, Loss: 0.01628818043142818
+Epoch 9, Eval Loss: 0.7555227287113666, Eval Accuracy: 0.8366
+Epoch 10, Loss: 0.018529982379471562
+Epoch 10, Eval Loss: 0.6488947812467813, Eval Accuracy: 0.8548
+Best Eval Loss: 0.3469857804477215
+Best Epoch: 1
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.0001, 'n_layers': 2}
+Epoch 1, Loss: 0.6324073455895588
+Epoch 1, Eval Loss: 0.5890331856906414, Eval Accuracy: 0.7148
+Epoch 2, Loss: 0.4449822921661814
+Epoch 2, Eval Loss: 0.4283360630273819, Eval Accuracy: 0.816
+Epoch 3, Loss: 0.37243926506133596
+Epoch 3, Eval Loss: 0.39918312728405, Eval Accuracy: 0.8258
+Epoch 4, Loss: 0.31868932429392627
+Epoch 4, Eval Loss: 0.3632655471563339, Eval Accuracy: 0.851
+Epoch 5, Loss: 0.275594122565476
+Epoch 5, Eval Loss: 0.3454682018607855, Eval Accuracy: 0.8566
+Epoch 6, Loss: 0.23523975737914918
+Epoch 6, Eval Loss: 0.3434841938316822, Eval Accuracy: 0.8596
+Epoch 7, Loss: 0.20581041314419668
+Epoch 7, Eval Loss: 0.3428988169878721, Eval Accuracy: 0.8692
+Epoch 8, Loss: 0.17361431492931523
+Epoch 8, Eval Loss: 0.3348733577877283, Eval Accuracy: 0.8692
+Epoch 9, Loss: 0.14801668997403164
+Epoch 9, Eval Loss: 0.36912319995462894, Eval Accuracy: 0.8574
+Epoch 10, Loss: 0.12932898545530952
+Epoch 10, Eval Loss: 0.3557654954493046, Eval Accuracy: 0.8658
+Best Eval Loss: 0.3348733577877283
+Best Epoch: 7
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.0001, 'n_layers': 3}
+Epoch 1, Loss: 0.60607147786268
+Epoch 1, Eval Loss: 0.45071706622838975, Eval Accuracy: 0.8082
+Epoch 2, Loss: 0.4015917705882127
+Epoch 2, Eval Loss: 0.40676005706191065, Eval Accuracy: 0.8186
+Epoch 3, Loss: 0.3226537396953364
+Epoch 3, Eval Loss: 0.35074435621500016, Eval Accuracy: 0.8526
+Epoch 4, Loss: 0.2680882598943771
+Epoch 4, Eval Loss: 0.3305439207702875, Eval Accuracy: 0.8626
+Epoch 5, Loss: 0.233177316226777
+Epoch 5, Eval Loss: 0.3183802872896194, Eval Accuracy: 0.877
+Epoch 6, Loss: 0.19576632644340491
+Epoch 6, Eval Loss: 0.32051908075809477, Eval Accuracy: 0.8758
+Epoch 7, Loss: 0.16611324767967697
+Epoch 7, Eval Loss: 0.3348000805824995, Eval Accuracy: 0.8734
+Epoch 8, Loss: 0.1313593357469246
+Epoch 8, Eval Loss: 0.36715917363762857, Eval Accuracy: 0.8708
+Epoch 9, Loss: 0.10222758552071395
+Epoch 9, Eval Loss: 0.3975173868238926, Eval Accuracy: 0.8708
+Epoch 10, Loss: 0.08649419681139432
+Epoch 10, Eval Loss: 0.44793891087174414, Eval Accuracy: 0.8634
+Best Eval Loss: 0.3183802872896194
+Best Epoch: 4
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 256, 'learning_rate': 0.001, 'n_layers': 2}
+Epoch 1, Loss: 0.4428116411540159
+Epoch 1, Eval Loss: 0.37737743705511095, Eval Accuracy: 0.8532
+Epoch 2, Loss: 0.25359919164211125
+Epoch 2, Eval Loss: 0.315713569894433, Eval Accuracy: 0.869
+Epoch 3, Loss: 0.1556108432590582
+Epoch 3, Eval Loss: 0.3695271648466587, Eval Accuracy: 0.8776
+Epoch 4, Loss: 0.11891799156737935
+Epoch 4, Eval Loss: 0.4090888224542141, Eval Accuracy: 0.865
+Epoch 5, Loss: 0.0618015302784124
+Epoch 5, Eval Loss: 0.5831839151680469, Eval Accuracy: 0.8446
+Epoch 6, Loss: 0.05170014413714314
+Epoch 6, Eval Loss: 0.6036310002207756, Eval Accuracy: 0.8496
+Epoch 7, Loss: 0.024440318121349402
+Epoch 7, Eval Loss: 0.6112386919558048, Eval Accuracy: 0.8614
+Epoch 8, Loss: 0.019518539688778317
+Epoch 8, Eval Loss: 0.6417557045817375, Eval Accuracy: 0.848
+Epoch 9, Loss: 0.02402600330437065
+Epoch 9, Eval Loss: 0.6309102736413479, Eval Accuracy: 0.855
+Epoch 10, Loss: 0.024323326692720696
+Epoch 10, Eval Loss: 0.6122569121420384, Eval Accuracy: 0.8398
+Best Eval Loss: 0.315713569894433
+Best Epoch: 1
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 256, 'learning_rate': 0.001, 'n_layers': 3}
+Epoch 1, Loss: 0.5740213058177074
+Epoch 1, Eval Loss: 0.4448202043771744, Eval Accuracy: 0.808
+Epoch 2, Loss: 0.3148498145068527
+Epoch 2, Eval Loss: 0.2945012625306845, Eval Accuracy: 0.8818
+Epoch 3, Loss: 0.19212993262869538
+Epoch 3, Eval Loss: 0.29462153390049933, Eval Accuracy: 0.8806
+Epoch 4, Loss: 0.1277112969120217
+Epoch 4, Eval Loss: 0.38450276479125023, Eval Accuracy: 0.8586
+Epoch 5, Loss: 0.08465435705889182
+Epoch 5, Eval Loss: 0.4106512166559696, Eval Accuracy: 0.8706
+Epoch 6, Loss: 0.057540663666311345
+Epoch 6, Eval Loss: 0.43231222331523894, Eval Accuracy: 0.8716
+Epoch 7, Loss: 0.04406243595324314
+Epoch 7, Eval Loss: 0.508308931440115, Eval Accuracy: 0.8678
+Epoch 8, Loss: 0.03653875833887393
+Epoch 8, Eval Loss: 0.5424461379647255, Eval Accuracy: 0.8632
+Epoch 9, Loss: 0.030614625090128106
+Epoch 9, Eval Loss: 0.5669704027473926, Eval Accuracy: 0.8662
+Epoch 10, Loss: 0.033060063539772845
+Epoch 10, Eval Loss: 0.5661003969609737, Eval Accuracy: 0.867
+Best Eval Loss: 0.2945012625306845
+Best Epoch: 1
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 256, 'learning_rate': 0.0001, 'n_layers': 2}
+Epoch 1, Loss: 0.573098313087111
+Epoch 1, Eval Loss: 0.43635043501853943, Eval Accuracy: 0.8084
+Epoch 2, Loss: 0.3663325490085942
+Epoch 2, Eval Loss: 0.3705483559519053, Eval Accuracy: 0.8448
+Epoch 3, Loss: 0.2964964888657734
+Epoch 3, Eval Loss: 0.31890500262379645, Eval Accuracy: 0.871
+Epoch 4, Loss: 0.2507232953408721
+Epoch 4, Eval Loss: 0.4076254561543465, Eval Accuracy: 0.846
+Epoch 5, Loss: 0.2375964695101331
+Epoch 5, Eval Loss: 0.31458577886223793, Eval Accuracy: 0.8818
+Epoch 6, Loss: 0.19330814699078822
+Epoch 6, Eval Loss: 0.3217575490474701, Eval Accuracy: 0.8746
+Epoch 7, Loss: 0.15846790401798905
+Epoch 7, Eval Loss: 0.3155120097100735, Eval Accuracy: 0.8766
+Epoch 8, Loss: 0.1334143503313991
+Epoch 8, Eval Loss: 0.33807364739477636, Eval Accuracy: 0.8816
+Epoch 9, Loss: 0.1044592833751516
+Epoch 9, Eval Loss: 0.35905598774552344, Eval Accuracy: 0.8692
+Epoch 10, Loss: 0.09073252603411674
+Epoch 10, Eval Loss: 0.37371852062642574, Eval Accuracy: 0.8764
+Best Eval Loss: 0.31458577886223793
+Best Epoch: 4
+Training with parameters: {'bidirectional': True, 'dropout': 0.3, 'epochs': 10, 'hidden_dim': 256, 'learning_rate': 0.0001, 'n_layers': 3}
+Epoch 1, Loss: 0.5770441538589016
+Epoch 1, Eval Loss: 0.5334819965064526, Eval Accuracy: 0.7516
+Epoch 2, Loss: 0.3993275123796645
+Epoch 2, Eval Loss: 0.36973931938409804, Eval Accuracy: 0.8478
+Epoch 3, Loss: 0.29923782654248987
+Epoch 3, Eval Loss: 0.3283106565475464, Eval Accuracy: 0.8718
+Epoch 4, Loss: 0.25522649905104544
+Epoch 4, Eval Loss: 0.31275191754102705, Eval Accuracy: 0.8698
+Epoch 5, Loss: 0.21569173688152035
+Epoch 5, Eval Loss: 0.3012643128633499, Eval Accuracy: 0.886
+Epoch 6, Loss: 0.1796071452035266
+Epoch 6, Eval Loss: 0.31456375271081927, Eval Accuracy: 0.8838
+Epoch 7, Loss: 0.1559880016146192
+Epoch 7, Eval Loss: 0.34489631578326224, Eval Accuracy: 0.8722
+Epoch 8, Loss: 0.11557613497089808
+Epoch 8, Eval Loss: 0.35857105925679206, Eval Accuracy: 0.8842
+Epoch 9, Loss: 0.09421127059372367
+Epoch 9, Eval Loss: 0.41376065611839297, Eval Accuracy: 0.8674
+Epoch 10, Loss: 0.0972856055873974
+Epoch 10, Eval Loss: 0.4419620715081692, Eval Accuracy: 0.8688
+Best Eval Loss: 0.3012643128633499
+Best Epoch: 4
+Training with parameters: {'bidirectional': True, 'dropout': 0.5, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.001, 'n_layers': 2}
+Epoch 1, Loss: 0.45918288694065845
+Epoch 1, Eval Loss: 0.3853684514760971, Eval Accuracy: 0.8456
+Epoch 2, Loss: 0.2435405662484989
+Epoch 2, Eval Loss: 0.3073617346584797, Eval Accuracy: 0.8718
+Epoch 3, Loss: 0.17202857058424098
+Epoch 3, Eval Loss: 0.35804275013506415, Eval Accuracy: 0.8584
+Epoch 4, Loss: 0.1034897069096755
+Epoch 4, Eval Loss: 0.42048148550093173, Eval Accuracy: 0.866
+Epoch 5, Loss: 0.05909263460072362
+Epoch 5, Eval Loss: 0.49247780069708824, Eval Accuracy: 0.8632
+Epoch 6, Loss: 0.08001110267938133
+Epoch 6, Eval Loss: 0.5562968350946903, Eval Accuracy: 0.8502
+Epoch 7, Loss: 0.04099315278243962
+Epoch 7, Eval Loss: 0.5877900768071413, Eval Accuracy: 0.8504
+Epoch 8, Loss: 0.026960910453645
+Epoch 8, Eval Loss: 0.661769213527441, Eval Accuracy: 0.8512
+Epoch 9, Loss: 0.01529595654184936
+Epoch 9, Eval Loss: 0.7503873683512211, Eval Accuracy: 0.8526
+Epoch 10, Loss: 0.017399272206684302
+Epoch 10, Eval Loss: 0.7067764736711979, Eval Accuracy: 0.8532
+Best Eval Loss: 0.3073617346584797
+Best Epoch: 1
+Training with parameters: {'bidirectional': True, 'dropout': 0.5, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.001, 'n_layers': 3}
+Epoch 1, Loss: 0.45606772307377713
+Epoch 1, Eval Loss: 0.3920957505702972, Eval Accuracy: 0.822
+Epoch 2, Loss: 0.4396961711014912
+Epoch 2, Eval Loss: 0.36668379977345467, Eval Accuracy: 0.8464
+Epoch 3, Loss: 0.24903295184396634
+Epoch 3, Eval Loss: 0.308327036164701, Eval Accuracy: 0.873
+Epoch 4, Loss: 0.1556305608646885
+Epoch 4, Eval Loss: 0.3757573369890451, Eval Accuracy: 0.8762
+Epoch 5, Loss: 0.10963626169142829
+Epoch 5, Eval Loss: 0.39118710421025754, Eval Accuracy: 0.8604
+Epoch 6, Loss: 0.07457367718148573
+Epoch 6, Eval Loss: 0.46012378856539726, Eval Accuracy: 0.8694
+Epoch 7, Loss: 0.056681120002962604
+Epoch 7, Eval Loss: 0.42930001532658935, Eval Accuracy: 0.8714
+Epoch 8, Loss: 0.05228832103371336
+Epoch 8, Eval Loss: 0.494918754696846, Eval Accuracy: 0.8662
+Epoch 9, Loss: 0.0485942339358531
+Epoch 9, Eval Loss: 0.5600046940147877, Eval Accuracy: 0.8604
+Epoch 10, Loss: 0.03199878395505392
+Epoch 10, Eval Loss: 0.5930870734155178, Eval Accuracy: 0.8622
+Best Eval Loss: 0.308327036164701
+Best Epoch: 2
+Training with parameters: {'bidirectional': True, 'dropout': 0.5, 'epochs': 10, 'hidden_dim': 128, 'learning_rate': 0.0001, 'n_layers': 2}
+Epoch 1, Loss: 0.6700709460267595
+Epoch 1, Eval Loss: 0.5125535480678082, Eval Accuracy: 0.7556
+Epoch 2, Loss: 0.40601881057213823
+Epoch 2, Eval Loss: 0.34832945354282857, Eval Accuracy: 0.852
+Epoch 3, Loss: 0.3068479183752825
+Epoch 3, Eval Loss: 0.31578856110572817, Eval Accuracy: 0.8678
